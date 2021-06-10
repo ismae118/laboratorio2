@@ -1,0 +1,161 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #ee7e27 ;
+}
+
+.header{
+    background-color: rgb(63, 165, 42);
+    width: 100%;
+    height: 140px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/*inicio Menu*/
+.menu{
+    list-style: none;
+    display: flex;
+    }
+
+    .menu li{
+        margin: 10px;
+    }
+
+    .menu a{
+        text-decoration: none;
+        color: white;
+    }
+   
+    .contenedor{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 25px;
+    }
+    
+    .header p{
+        font-size: 40px;
+        color: white;
+        margin: 20px;
+        font-weight:600px;
+        font-family: fantasy;
+    }
+
+    .menu a:hover{
+        color: rgb(255, 153, 0);
+        transition: 800ms;
+    }
+
+    .contenedor1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+            cursor: pointer;
+            
+        
+    }
+    .tarjeta1 { 
+        width: 220px;
+        height: 360px;
+        background-color: white;
+        border-radius: 25px;
+        cursor: pointer;
+        margin-top: 100px;
+        margin-right: 150px;
+        border :5px solid rgb(21, 158, 16);
+         
+        
+        
+    
+    
+    }
+    .contenedor2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        cursor: pointer;
+    }
+    .tarjeta2 { 
+        width: 220px;
+        height: 360px;
+        background-color: white;
+        border-radius: 25px;
+        cursor: pointer;
+        margin-top: 100px;
+        margin-right: 960px;
+        margin-top: -350px;
+        border :5px solid rgb(37, 16, 158);
+    }
+    
+    
+    .contenedor3 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       
+       cursor: pointer;
+    }
+    .tarjeta3 { 
+        width: 220px;
+        height: 360px;
+        background-color: white;
+        border-radius: 25px;
+        cursor: pointer;
+        margin-right: -1750px;
+        margin-top: -390PX;
+        border :5px solid rgb(209, 22, 84);
+    }
+    
+    .contenedor88 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       
+       cursor: pointer;
+    }
+    .tarjeta88 { 
+        width: 220px;
+        height: 360px;
+        background-color: white;
+        border-radius: 25px;
+        cursor: pointer;
+        margin-right: -1750px;
+        margin-top: -300PX;
+        border :5px solid rgb(209, 22, 84);
+    }
+    
+    
+   
+    
+       
+    
+  .leon { 
+      width: 120px;
+  }    
+    .oso {
+        width: 120px;
+    }
+    .vaca {
+        width: 120px;
+    }
+    .jirafa {
+        width: 120px;
+    }
+     
+    .logo {
+        width:  900px;
+    }
+
+    .letras {
+        font-size: 25px;
+    }
+    .parrafo2 {
+        font-size: 15px;
+    }
+    .xd  {
+        font-size: 25px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        
+        
+    }
